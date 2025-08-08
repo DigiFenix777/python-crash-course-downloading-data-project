@@ -1,0 +1,18 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Jupyter and temp files
+.ipynb_checkpoints/
+*.DS_Store
+
+# Python packaging
+*.egg-info/
+*.egg
+
+# Output files
+images/
+html/
