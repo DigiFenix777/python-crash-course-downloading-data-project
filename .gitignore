@@ -16,3 +16,6 @@ __pycache__/
 # Output files
 images/
 html/
+
+# PyCharm specific
+.idea/
