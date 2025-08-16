@@ -1,4 +1,12 @@
-# 🌍 Data Visualization with CSV, APIs, and GeoJSON  
+# 🌍 Data Visualization with CSV, JSON, and GeoJSON  
+
+<!-- 📛 Project Badges -->
+![Last Commit](https://img.shields.io/github/last-commit/DigiFenix777/python-crash-course-downloading-data-project)
+![Top Language](https://img.shields.io/github/languages/top/DigiFenix777/python-crash-course-downloading-data-project)
+![Repo Size](https://img.shields.io/github/repo-size/DigiFenix777/python-crash-course-downloading-data-project)
+![Issues](https://img.shields.io/github/issues/DigiFenix777/python-crash-course-downloading-data-project)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 ## 🔑 Executive Summary  
 This project showcases **Python for data analysis and visualization** in a way that directly supports cybersecurity workflows. While the exercises focus on CSV, JSON, and GeoJSON datasets (weather, earthquakes, wildfires), the same skills apply to security data such as:  
