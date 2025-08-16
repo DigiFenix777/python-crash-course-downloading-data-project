@@ -96,7 +96,7 @@ project-data-visualization/
 
 This project highlights skills in:  
 - Python scripting for data processing  
-- API and JSON handling with `requests`  
+- CSV, JSON, and GeoJSON importing and processing  
 - Data visualization using **Matplotlib** and **Plotly**  
 - Working with real-world datasets (climate, seismic, fire activity)  
 - Applying **PEP 8**, project structuring, and GitHub portfolio practices  
