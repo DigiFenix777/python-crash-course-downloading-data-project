@@ -1,10 +1,17 @@
 from pathlib import Path
 import csv
 from datetime import datetime
-
 import matplotlib.pyplot as plt
+import sys
 
-path = Path('../weather_data/death_valley_2021_simple.csv')
+DATA = Path("../data/weather_data/death_valley_2021_simple.csv")
+if not DATA.exists():
+    sys.exit(
+        "Missing data file: data/weather_data/death_valley_2021_simple.csv\n"
+        "See data/README.md for download instructions."
+    )
+
+path = Path('../data/weather_data/death_valley_2021_simple.csv')
 lines = path.read_text(encoding='utf-8').splitlines()
 
 reader = csv.reader(lines)
