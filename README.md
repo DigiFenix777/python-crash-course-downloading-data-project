@@ -151,7 +151,13 @@ Problems, errors, and issues overcome during this project:
 - Learned how to configure and update **branch protection rules** to balance collaboration with control.  
 - Improved workflow efficiency by practicing **PyCharm Git integration** and fallback to the CLI when needed.  
 - Built resilience by troubleshooting environment and formatting issues in **VS Code** and **PyCharm**.  
-- Reinforced the importance of clear **data directory structures** for consistent project organization.  
+- Reinforced the importance of clear **data directory structures** for consistent project organization.
+
+### 🛠️ Skills Spotlight  
+- **Version Control:** Git branching, conflict resolution, and pull request management.  
+- **Tool Proficiency:** PyCharm, VS Code, GitHub Desktop, and CLI.  
+- **Problem-Solving:** Overcame environment friction and repo cleanup challenges.  
+- **Cybersecurity Relevance:** Applied structured, methodical approaches to error handling and configuration—transferable to securing and maintaining resilient systems.  
 
 This project helped me bridge **Python fundamentals** with **practical cybersecurity applications**, positioning me to develop tools that improve detection, response, and reporting.  
 
