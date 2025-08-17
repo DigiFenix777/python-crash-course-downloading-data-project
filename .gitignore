@@ -159,3 +159,7 @@ html/*.html
 
 # Notebooks (if you want to exclude outputs)
 *.ipynb
+
+# Exception to allow /images/portfolio directory and images
+!images/portfolio
+!images/portfolio/**

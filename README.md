@@ -48,7 +48,14 @@ This project demonstrates how to **ingest, process, and visualize structured and
 ```plaintext
 project-data-visualization/
 │
-├── src/                # Python scripts for each exercise
+├── data/               # Input CSV/JSON/GeoJSON datasets
+│   ├── earthquake_data/
+│   ├── weather_data/
+│   └── wildfire_data/
+│ 
+├── images/portfolio/   # Exported static plots
+│
+├── src/                # Python scripts for each exercise and lesson
 │   ├── 16_1_death_valley_rainfall.py
 │   ├── 16_1_sitka_rainfall.py
 │   ├── 16_2_sitka_death_valley_comparison.py
@@ -64,14 +71,13 @@ project-data-visualization/
 │   ├── sitka_highs.py
 │   └── sitka_highs_lows.py
 │ 
-├── data/               # Input CSV/JSON datasets
-├── images/             # Exported static plots
-├── html/               # Interactive Plotly charts
-│
+├── tests/
+├── .gitattributes
 ├── .gitignore
+├── LICENSE
 ├── README.md
-├── requirements.txt
-└── LICENSE
+└── requirements.txt
+
 ```
 ---
 
