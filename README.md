@@ -9,7 +9,7 @@
 
 
 ## 🔑 Executive Summary  
-This project showcases **Python for data analysis and visualization** in a way that directly supports cybersecurity workflows. While the exercises focus on CSV, JSON, and GeoJSON datasets (weather, earthquakes, wildfires), the same skills apply to security data such as:  
+Explored Python for cybersecurity and data analysis through a portfolio project focused on downloading, cleaning, and visualizing real-world datasets. Demonstrated ability to parse CSV/JSON/GeoJSON data and generate both static and interactive visualizations using Matplotlib and Plotly. The project also applies refactoring, error handling, and reproducibility practices (virtual environments, requirements file, structured repo). Cybersecurity-transferrable skills:
 
 - Parsing and cleaning **log files**, vulnerability scan results, and breach datasets.  
 - Accessing and processing **security APIs** (e.g., VirusTotal, HaveIBeenPwned, Shodan).  
