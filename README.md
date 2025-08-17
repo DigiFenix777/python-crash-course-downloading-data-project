@@ -48,6 +48,32 @@ This project demonstrates how to **ingest, process, and visualize structured and
 ```plaintext
 project-data-visualization/
 │
+├── data/               # Input CSV/JSON/GeoJSON datasets
+│   ├── earthquake_data/
+│   │   ├── eq_data_1_day_m1.geojson
+│   │   ├── eq_data_30_day_m1.geojson
+│   │   ├── eq_data_past_30_days_m4plus.geojson
+│   │   ├── readable_eq_data_geojson
+│   │   └── README.md
+│   ├── weather_data/
+│   │   ├── death_valley_2021_full.csv
+│   │   ├── death_valley_2021_simple.csv
+│   │   ├── greater_seattle_2024_dense.csv
+│   │   ├── README.md
+│   │   ├── redmond_wa_2024_simple.csv
+│   │   ├── sitka_weather_07-2021_simple.csv
+│   │   ├── sitka_weather_2021_full.csv
+│   │   └── sitka_weather_2021_simple.csv
+│   ├── wildfire_data/
+│   │   ├── world_fires_1_day.csv
+│   │   └── world_fires_7_day.csv
+│   └── README.md
+│
+├── images/portfolio/             # Exported static plots
+│   ├── Recent_Earthquakes.png
+│   ├── Sitka_Death_Valley_Comparison.png
+│   └── World_Wildfires.png
+│
 ├── src/                # Python scripts for each exercise
 │   ├── 16_1_death_valley_rainfall.py
 │   ├── 16_1_sitka_rainfall.py
@@ -64,14 +90,12 @@ project-data-visualization/
 │   ├── sitka_highs.py
 │   └── sitka_highs_lows.py
 │ 
-├── data/               # Input CSV/JSON datasets
-├── images/             # Exported static plots
-├── html/               # Interactive Plotly charts
-│
+├── tests/
+├── .gitattributes
 ├── .gitignore
+├── LICENSE
 ├── README.md
-├── requirements.txt
-└── LICENSE
+└── requirements.txt
 ```
 ---
 
