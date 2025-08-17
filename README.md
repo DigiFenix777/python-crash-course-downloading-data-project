@@ -143,7 +143,15 @@ Through this project, I strengthened both my Python skills and their application
 - **Datetime handling** → useful for correlating events across multiple security data sources.  
 - **Visualization (Matplotlib & Plotly)** → critical for reporting incidents and trends to executives or compliance auditors.  
 - **Error handling & validation** → aligns with defensive programming principles in security tools.  
-- **Refactoring & automation** → prepares me to build reusable scripts for common security workflows.  
+- **Refactoring & automation** → prepares me to build reusable scripts for common security workflows.
+
+Problems, errors, and issues overcome during this project:
+
+- Gained hands-on experience resolving **Git merge conflicts** and managing divergent branches.  
+- Learned how to configure and update **branch protection rules** to balance collaboration with control.  
+- Improved workflow efficiency by practicing **PyCharm Git integration** and fallback to the CLI when needed.  
+- Built resilience by troubleshooting environment and formatting issues in **VS Code** and **PyCharm**.  
+- Reinforced the importance of clear **data directory structures** for consistent project organization.  
 
 This project helped me bridge **Python fundamentals** with **practical cybersecurity applications**, positioning me to develop tools that improve detection, response, and reporting.  
 
