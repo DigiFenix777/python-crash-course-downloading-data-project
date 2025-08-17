@@ -140,10 +140,7 @@ logs/
 log/
 
 # Data
-data/*.csv
-data/*.json
-data/*.xml
-!data/README.md   # keep dataset notes
+data/**/*
 
 # Images / Outputs
 images/*.png
@@ -159,3 +156,9 @@ html/*.html
 
 # Notebooks (if you want to exclude outputs)
 *.ipynb
+
+# Except directories, files, and images necessary for project demo.
+!images/*
+!data/README.md   # keep dataset notes
+!data/*/README.md
+
